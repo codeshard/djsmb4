@@ -15,5 +15,7 @@ Again:
  	This is a work in progress project, so, please, be patient!
 
 Template by: ```Notika Admin Template```
+
 URL: https://github.com/puikinsh/notika
+
 Developer: ** Aigars Silkalns **
